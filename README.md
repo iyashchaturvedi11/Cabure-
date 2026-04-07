@@ -26,15 +26,7 @@
 - 📱 **Responsive Design** — Works perfectly on desktop and mobile
 - 🎨 **Modern & Attractive Interface** — Built with clean HTML, CSS & JavaScript
 
-## 🖼️ Screenshots
 
-*(Add your project screenshots here — they make a huge difference!)*
-
-<!-- Example placeholder - replace with actual image links -->
-<!-- 
-![Demo 1](https://via.placeholder.com/800x400?text=Live+Fare+Comparison)
-![Demo 2](https://via.placeholder.com/800x400?text=Route+Mapping)
--->
 
 ## 🚀 Tech Stack
 
